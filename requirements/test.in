@@ -5,6 +5,7 @@ pytest==5.4.3
 safety==1.9.0
 pytest-vcr
 pytest-chalice
+pytest-django
 ipdb
 freezegun
 ipython

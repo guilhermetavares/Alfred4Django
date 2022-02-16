@@ -11,6 +11,7 @@ attrs==21.2.0
 backcall==0.2.0
     # via ipython
 blessed==1.19.0
+pytest-django
     # via inquirer
 botocore==1.23.26
     # via chalice
